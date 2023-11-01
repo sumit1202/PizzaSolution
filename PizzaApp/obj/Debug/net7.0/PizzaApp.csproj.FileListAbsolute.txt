@@ -12,3 +12,11 @@
 /Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.pdb
 /Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.genruntimeconfig.cache
 /Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/ref/PizzaApp.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaStoreModelLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaStoreModelLibrary.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.csproj.AssemblyReference.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.csproj.CopyComplete
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaStoreBusinessLogicLayerLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaStoreBusinessLogicLayerLibrary.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.pdb

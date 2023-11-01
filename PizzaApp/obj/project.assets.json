@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "PizzaStoreBusinessLogicLayerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "PizzaStoreDataAccessLayerLibrary": "1.0.0",
+          "PizzaStoreModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaStoreBusinessLogicLayerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaStoreBusinessLogicLayerLibrary.dll": {}
+        }
+      },
+      "PizzaStoreDataAccessLayerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "PizzaStoreModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaStoreDataAccessLayerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaStoreDataAccessLayerLibrary.dll": {}
+        }
+      },
+      "PizzaStoreModelLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PizzaStoreModelLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaStoreModelLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "PizzaStoreBusinessLogicLayerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PizzaStoreBusinessLogicLayerLibrary/PizzaStoreBusinessLogicLayerLibrary.csproj",
+      "msbuildProject": "../PizzaStoreBusinessLogicLayerLibrary/PizzaStoreBusinessLogicLayerLibrary.csproj"
+    },
+    "PizzaStoreDataAccessLayerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PizzaStoreDataAccessLayerLibrary/PizzaStoreDataAccessLayerLibrary.csproj",
+      "msbuildProject": "../PizzaStoreDataAccessLayerLibrary/PizzaStoreDataAccessLayerLibrary.csproj"
+    },
+    "PizzaStoreModelLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PizzaStoreModelLibrary/PizzaStoreModelLibrary.csproj",
+      "msbuildProject": "../PizzaStoreModelLibrary/PizzaStoreModelLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "PizzaStoreBusinessLogicLayerLibrary >= 1.0.0",
+      "PizzaStoreModelLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "/Users/sumitkumar/.nuget/packages/": {}
@@ -31,7 +88,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreBusinessLogicLayerLibrary/PizzaStoreBusinessLogicLayerLibrary.csproj": {
+              "projectPath": "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreBusinessLogicLayerLibrary/PizzaStoreBusinessLogicLayerLibrary.csproj"
+            },
+            "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/PizzaStoreModelLibrary.csproj": {
+              "projectPath": "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/PizzaStoreModelLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

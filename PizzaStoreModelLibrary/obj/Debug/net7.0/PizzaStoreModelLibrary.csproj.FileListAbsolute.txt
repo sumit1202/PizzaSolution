@@ -1,0 +1,11 @@
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/bin/Debug/net7.0/PizzaStoreModelLibrary.deps.json
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/bin/Debug/net7.0/PizzaStoreModelLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/bin/Debug/net7.0/PizzaStoreModelLibrary.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/obj/Debug/net7.0/PizzaStoreModelLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/obj/Debug/net7.0/PizzaStoreModelLibrary.AssemblyInfoInputs.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/obj/Debug/net7.0/PizzaStoreModelLibrary.AssemblyInfo.cs
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/obj/Debug/net7.0/PizzaStoreModelLibrary.csproj.CoreCompileInputs.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/obj/Debug/net7.0/PizzaStoreModelLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/obj/Debug/net7.0/refint/PizzaStoreModelLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/obj/Debug/net7.0/PizzaStoreModelLibrary.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/obj/Debug/net7.0/ref/PizzaStoreModelLibrary.dll

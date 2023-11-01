@@ -1,0 +1,15 @@
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/bin/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.deps.json
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/bin/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/bin/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/bin/Debug/net7.0/PizzaStoreModelLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/bin/Debug/net7.0/PizzaStoreModelLibrary.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.csproj.AssemblyReference.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.AssemblyInfoInputs.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.AssemblyInfo.cs
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.csproj.CoreCompileInputs.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.csproj.CopyComplete
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/refint/PizzaStoreDataAccessLayerLibrary.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/PizzaStoreDataAccessLayerLibrary.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/obj/Debug/net7.0/ref/PizzaStoreDataAccessLayerLibrary.dll

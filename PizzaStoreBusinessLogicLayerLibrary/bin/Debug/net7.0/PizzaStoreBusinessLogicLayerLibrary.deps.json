@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "PizzaStoreBusinessLogicLayerLibrary/1.0.0": {
+        "dependencies": {
+          "PizzaStoreDataAccessLayerLibrary": "1.0.0",
+          "PizzaStoreModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PizzaStoreBusinessLogicLayerLibrary.dll": {}
+        }
+      },
+      "PizzaStoreDataAccessLayerLibrary/1.0.0": {
+        "dependencies": {
+          "PizzaStoreModelLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PizzaStoreDataAccessLayerLibrary.dll": {}
+        }
+      },
+      "PizzaStoreModelLibrary/1.0.0": {
+        "runtime": {
+          "PizzaStoreModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaStoreBusinessLogicLayerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaStoreDataAccessLayerLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaStoreModelLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

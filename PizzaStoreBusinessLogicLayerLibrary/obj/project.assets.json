@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "PizzaStoreDataAccessLayerLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "PizzaStoreModelLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/PizzaStoreDataAccessLayerLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaStoreDataAccessLayerLibrary.dll": {}
+        }
+      },
+      "PizzaStoreModelLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/PizzaStoreModelLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PizzaStoreModelLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaStoreDataAccessLayerLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PizzaStoreDataAccessLayerLibrary/PizzaStoreDataAccessLayerLibrary.csproj",
+      "msbuildProject": "../PizzaStoreDataAccessLayerLibrary/PizzaStoreDataAccessLayerLibrary.csproj"
+    },
+    "PizzaStoreModelLibrary/1.0.0": {
+      "type": "project",
+      "path": "../PizzaStoreModelLibrary/PizzaStoreModelLibrary.csproj",
+      "msbuildProject": "../PizzaStoreModelLibrary/PizzaStoreModelLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "PizzaStoreDataAccessLayerLibrary >= 1.0.0",
+      "PizzaStoreModelLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/sumitkumar/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreBusinessLogicLayerLibrary/PizzaStoreBusinessLogicLayerLibrary.csproj",
+      "projectName": "PizzaStoreBusinessLogicLayerLibrary",
+      "projectPath": "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreBusinessLogicLayerLibrary/PizzaStoreBusinessLogicLayerLibrary.csproj",
+      "packagesPath": "/Users/sumitkumar/.nuget/packages/",
+      "outputPath": "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreBusinessLogicLayerLibrary/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/sumitkumar/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/PizzaStoreDataAccessLayerLibrary.csproj": {
+              "projectPath": "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreDataAccessLayerLibrary/PizzaStoreDataAccessLayerLibrary.csproj"
+            },
+            "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/PizzaStoreModelLibrary.csproj": {
+              "projectPath": "/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaStoreModelLibrary/PizzaStoreModelLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
