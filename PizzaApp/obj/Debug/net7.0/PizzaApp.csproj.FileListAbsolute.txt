@@ -1,0 +1,14 @@
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaApp
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaApp.deps.json
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaApp.runtimeconfig.json
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaApp.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/bin/Debug/net7.0/PizzaApp.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.AssemblyInfoInputs.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.AssemblyInfo.cs
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.csproj.CoreCompileInputs.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/refint/PizzaApp.dll
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.pdb
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/PizzaApp.genruntimeconfig.cache
+/Users/sumitkumar/Desktop/dotnet_dev/PizzaSolution/PizzaApp/obj/Debug/net7.0/ref/PizzaApp.dll
